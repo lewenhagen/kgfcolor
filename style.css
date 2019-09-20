@@ -1,0 +1,41 @@
+div {
+    border: 0.5px solid black;
+}
+
+.main {
+    width: 600px;
+    height: 400px;
+    background-color: white;
+    position: relative;
+}
+
+.pipe {
+    position: absolute;
+    width: 250px;
+    height: 40px;
+    margin-top: 190px;
+    margin-left: 20px;
+    background-color: white;
+}
+
+.matta {
+    position: absolute;
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+/*.black {
+    position: absolute;
+    background-color: black;
+}*/
+
+.matta-mid {
+    position: absolute;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    margin-top: 50px;
+}
